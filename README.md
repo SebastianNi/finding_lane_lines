@@ -20,7 +20,7 @@ You will also need to have software installed to run and execute a [Jupyter Note
 
 ### Run
 
-In order to run the code in the jupyter notebook you also need Udacity's test images and the video files **solidWhiteRight.mp4**, **solidYellowLeft.mp4** and **challenge.mp4**. You can find these files in the Udacity project repository linked in the beginning of this readme.
+In order to run the code in the jupyter notebook you also need Udacity's test images and the video files **solidWhiteRight.mp4**, **solidYellowLeft.mp4** and **challenge.mp4**. You can find these files in the [Udacity project repository](https://github.com/udacity/CarND-LaneLines-P1).
 
 Load the file with jupyter notebook using the following command:
 
