@@ -6,7 +6,12 @@
 https://github.com/udacity/CarND-LaneLines-P1
 
 ### Project Overview
-In this project I detected lane lines in images using Python and OpenCV.
+
+In this project I detected lane lines in images and videos using Python and OpenCV.
+
+### Output videos
+
+The project outputs videos in which the lane lines are highlighted. The output videos can be watched here: [video 1](https://drive.google.com/open?id=0B0agIiDyIPj1d1YwbTNaZ0ZYczA), [video 2](https://drive.google.com/open?id=0B0agIiDyIPj1MGVKNmNGMURqLXc) and [video 3](https://drive.google.com/open?id=0B0agIiDyIPj1UkZtWjh5dkI3VGs).
 
 ### Install
 
