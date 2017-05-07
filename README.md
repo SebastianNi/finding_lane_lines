@@ -1,6 +1,8 @@
 # Project: Finding Lane Lines
 ## My 1st Project in the Self-Driving Car Engineer Nanodegree at [Udacity](https://www.udacity.com/)
 
+<img src="output_solidYellowCurve.jpg" width="900" alt="Combined Image" />
+
 ### Link to the Udacity project repository
 
 https://github.com/udacity/CarND-LaneLines-P1
