@@ -15,6 +15,7 @@ This project requires **Python 3.5** and the following Python libraries installe
 - [NumPy](http://www.numpy.org/)
 - [matplotlib](http://matplotlib.org/)
 - [OpenCV](http://opencv.org/)
+- [MoviePy](http://zulko.github.io/moviepy/)
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://jupyter.org/)
 
